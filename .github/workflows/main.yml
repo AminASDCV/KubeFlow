@@ -4,4 +4,4 @@ jobs:
   Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
-      - run: python analyze_dataset.py ,/analyze_dataset.py
+      - run: python analyze_dataset.py ./analyze_dataset.py
