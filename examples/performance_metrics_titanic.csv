@@ -1,0 +1,2 @@
+Model,Accuracy (Train),Precision (Train),Recall (Train),F1 Score (Train),AUC (Train),Gini (Train),Accuracy (Test),Precision (Test),Recall (Test),F1 Score (Test),AUC (Test),Gini (Test),Overfitting Probability by Accuracy,Overfitting Probability by F1
+LogisticRegression,0.831,0.842,0.671,0.747,0.869,0.738,0.787,0.8,0.649,0.716,0.842,0.683,0.044,0.031

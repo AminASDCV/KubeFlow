@@ -1,0 +1,9 @@
+{
+    "Sex": {
+        "values": [
+            "male",
+            "female"
+        ],
+        "dropped": "male"
+    }
+}
